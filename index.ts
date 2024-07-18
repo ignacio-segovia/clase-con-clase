@@ -21,6 +21,6 @@ function main() {
 };
 const unaBanda = new Banda(["marce"], [unAlbum, unAlbum, unAlbum]);
 console.log(unaBanda.albums);
-console.log("otro cambio");
+console.log("vino otra pesona y le metio este cambio");
 }
 main();
